@@ -1,3 +1,17 @@
+
+
+
+![1](https://github.com/user-attachments/assets/86c92224-327a-4b3a-8382-0c000ee85cca)
+
+
+
+
+
+
+
+
+
+
 # Motor_Insurance 
 Motor Insurance Data Analysis – Summary Report
 This Power BI dashboard offers a comprehensive overview of motor insurance performance metrics across regions, time, and product categories.
